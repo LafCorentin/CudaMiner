@@ -1,0 +1,6 @@
+*.o
+*~
+stamp-h1
+cudaminer
+aclocal.m4
+*.log
